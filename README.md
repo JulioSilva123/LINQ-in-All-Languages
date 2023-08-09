@@ -5,7 +5,7 @@
 | Função        |  Linguagem  |  Status  |
 |:--------------|:-----------:|:--------:|
 |aggregate      | C#          |          |
-|               | VB.Net      |          |
+|               | VB.Net      |[![VB.Net .NET Core Desktop](https://github.com/JulioSilva123/LINQ-in-All-Languages/actions/workflows/vbnet-dotnet-desktop.yml/badge.svg)](https://github.com/JulioSilva123/LINQ-in-All-Languages/actions/workflows/vbnet-dotnet-desktop.yml)    |
 |concatenation  | -------     |
 |conversion     | -------     |
 |customsequence | -------     |
