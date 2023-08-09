@@ -4,7 +4,8 @@
 
 | Função        |  Linguagem  |  Status  |
 |:--------------|:-----------:|:--------:|
-|aggregate      | C#          |
+|aggregate      | C#          |          |
+|               | VB.Net      |          |
 |concatenation  | -------     |
 |conversion     | -------     |
 |customsequence | -------     |

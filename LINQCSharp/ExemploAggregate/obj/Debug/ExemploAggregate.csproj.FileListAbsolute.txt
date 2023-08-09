@@ -1,8 +1,0 @@
-J:\work\git\JulioSilva123\LINQ-in-All-Languages\LINQCSharp\ExemploAggregate\bin\Debug\ExemploAggregate.exe.config
-J:\work\git\JulioSilva123\LINQ-in-All-Languages\LINQCSharp\ExemploAggregate\bin\Debug\ExemploAggregate.exe
-J:\work\git\JulioSilva123\LINQ-in-All-Languages\LINQCSharp\ExemploAggregate\bin\Debug\ExemploAggregate.pdb
-J:\work\git\JulioSilva123\LINQ-in-All-Languages\LINQCSharp\ExemploAggregate\obj\Debug\ExemploAggregate.csproj.AssemblyReference.cache
-J:\work\git\JulioSilva123\LINQ-in-All-Languages\LINQCSharp\ExemploAggregate\obj\Debug\ExemploAggregate.csproj.SuggestedBindingRedirects.cache
-J:\work\git\JulioSilva123\LINQ-in-All-Languages\LINQCSharp\ExemploAggregate\obj\Debug\ExemploAggregate.csproj.CoreCompileInputs.cache
-J:\work\git\JulioSilva123\LINQ-in-All-Languages\LINQCSharp\ExemploAggregate\obj\Debug\ExemploAggregate.exe
-J:\work\git\JulioSilva123\LINQ-in-All-Languages\LINQCSharp\ExemploAggregate\obj\Debug\ExemploAggregate.pdb
