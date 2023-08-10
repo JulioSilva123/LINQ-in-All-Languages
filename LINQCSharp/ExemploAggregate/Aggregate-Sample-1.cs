@@ -28,6 +28,10 @@ namespace ExemploAggregate
         }
 
 
+
+
+
+
         ///// <summary>
         ///// Este exemplo usa Aggregate para multiplicar os números em execução na matriz.
         ///// 
